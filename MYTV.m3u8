@@ -267,18 +267,24 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="国际",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="国际",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="国际",HBO
-http://67.211.73.118:9901http://iptv.tvfix.org/hls/hbo2.m3u8
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="国际",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="国际",HBOHits
-http://67.211.73.118:9901http://iptv.tvfix.org/hls/hbohits2.m3u8
+http://203.77.246.10:443/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="国际",星空卫视
-http://67.211.73.118:9901http://iptv.tvfix.org/hls/startv.m3u8
+http://171.108.239.77:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="国际",东森电影
+http://171.108.239.77:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="国际",美亚电影台
 http://67.211.73.118:9901http://iptv.tvfix.org/hls/mydy2.m3u8
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="央视",凤凰电影
-http://67.211.73.118:9901http://iptv.tvfix.org/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="央视",凤凰电影
-http://67.211.73.118:9901http://iptv.tvfix.org/hls/tvbkf2.m3u8
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1 ,澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 ,澳亚卫视
