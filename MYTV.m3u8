@@ -264,6 +264,8 @@ http://37.27.111.214:8080/live/54/hls.m3u8
 http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 group-title="台湾",龍華電影台
 http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="台湾",东森電影台
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 group-title="台湾",博斯運動1
 http://37.27.111.214:8080/live/14/hls.m3u8
 #EXTINF:-1 group-title="台湾",TVBS歡樂台
